@@ -1,7 +1,7 @@
-{
-  "name": "app-template",
+  {
+  "name": "blog",
   "version": "0.0.1",
-  "description": "This project is an application skeleton for a typical AngularJS 1 web app.",
+  "description": "This project is an application for blog",
   "scripts": {
     "postinstall": "bower install",
     "prestart": "npm install",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/at-hungbcp/app-template.git"
+    "url": "https://github.com/truongquangkhoa/MyApp"
   },
-  "author": "Hung BCP",
+  "author": "khoa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/at-hungbcp/app-template/issues"
+    "url": "https://github.com/truongquangkhoa/MyApp/issues"
   },
-  "homepage": "https://github.com/at-hungbcp/app-template#readme",
+  "homepage": "https://github.com/truongquangkhoa/MyApp#readme",
   "private": true,
   "devDependencies": {
     "bower": "^1.7.7",

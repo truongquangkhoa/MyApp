@@ -1,12 +1,12 @@
 {
-  "name": "app-template",
+  "name": "blog",
   "version": "0.0.1",
-  "description": "This project is an application skeleton for a typical AngularJS 1 web app.",
+  "description": "This project is an application",
   "authors": [
-    "Hung BCP"
+    "khoa"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/at-hungbcp/app-template",
+  "homepage": "https://github.com/truongquangkhoa/MyApp",
   "private": true,
   "ignore": [
     "**/.*",
